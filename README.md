@@ -1,5 +1,5 @@
 # Data Job Market Analysis Dashboard
-![Dashboard Preview](images\SeniorDAWorld.png)
+![Dashboard Preview](images/SeniorDAWorld.png)
 ## Introduction
 The data analytics field includes a wide range of tools and skills, which can be overwhelming for newcomers and even experienced professionals trying to prioritize what to learn next. This project analyzes job market data to identify the most in-demand and high-value skills, helping job seekers make more informed decisions about their skill development.
 
